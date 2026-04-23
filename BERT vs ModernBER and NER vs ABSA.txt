@@ -1,0 +1,5 @@
+BERT vs ModernBERT:
+BERT is an early Transformer-based model that uses Masked Language Modeling (MLM) for pretraining, ModernBERT models are enhanced versions that improve performance through techniques like disentangled attention (DeBERTa) or larger-scale training (RoBERTa), these newer models are faster, more efficient, and achieve better accuracy, especially in complex tasks like sentiment analysis.  
+
+NER vs ABSA:
+NER (Named Entity Recognition) identifies entities in text (Like: people, organizations, locations), ABSA (Aspect-Based Sentiment Analysis) not only extracts aspects (Like: service or price) but also determines their sentiment (positive/negative).
